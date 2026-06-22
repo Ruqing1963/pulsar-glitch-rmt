@@ -1,0 +1,158 @@
+{
+  "B1338-62": {
+    "n_glitches": 35,
+    "r": 0.5753,
+    "r_se": 0.0411,
+    "cv": 0.5707,
+    "beta": 0.865,
+    "ci": [
+      0.4845421352259142,
+      0.6763010021049075
+    ],
+    "sig_poisson": 3.42,
+    "sig_goe": 0.83,
+    "mean_interval_days": 300.7,
+    "note": ""
+  },
+  "J0537-6910": {
+    "n_glitches": 45,
+    "r": 0.5623,
+    "r_se": 0.0375,
+    "cv": 0.5462,
+    "beta": 0.921,
+    "ci": [
+      0.4714707252737675,
+      0.641242194175041
+    ],
+    "sig_poisson": 3.59,
+    "sig_goe": 0.67,
+    "mean_interval_days": 103.2,
+    "note": "dense segment (single 2264-d obs gap removed)"
+  },
+  "B1758-23": {
+    "n_glitches": 15,
+    "r": 0.5446,
+    "r_se": 0.0744,
+    "cv": 0.5715,
+    "beta": 0.793,
+    "ci": [
+      0.36172431515816,
+      0.6947672680701729
+    ],
+    "sig_poisson": 1.84,
+    "sig_goe": 0.14,
+    "mean_interval_days": 863.3,
+    "note": ""
+  },
+  "J2229+6114": {
+    "n_glitches": 9,
+    "r": 0.5363,
+    "r_se": 0.0799,
+    "cv": 0.4785,
+    "beta": 1.215,
+    "ci": [
+      0.3628485611044663,
+      0.8039101578550228
+    ],
+    "sig_poisson": 1.12,
+    "sig_goe": -0.06,
+    "mean_interval_days": 774.8,
+    "note": ""
+  },
+  "B1800-21": {
+    "n_glitches": 6,
+    "r": 0.5262,
+    "r_se": 0.1579,
+    "cv": 0.3894,
+    "beta": 1.955,
+    "ci": [
+      0.3179399255626444,
+      0.9298375399570993
+    ],
+    "sig_poisson": 0.43,
+    "sig_goe": -0.41,
+    "mean_interval_days": 2142.6,
+    "note": ""
+  },
+  "J0631+1036": {
+    "n_glitches": 17,
+    "r": 0.4948,
+    "r_se": 0.0737,
+    "cv": 0.7467,
+    "beta": 0.191,
+    "ci": [
+      0.26021112405744995,
+      0.6147225202817056
+    ],
+    "sig_poisson": 1.3,
+    "sig_goe": -0.43,
+    "mean_interval_days": 510.5,
+    "note": ""
+  },
+  "B1046-58": {
+    "n_glitches": 12,
+    "r": 0.4821,
+    "r_se": 0.0836,
+    "cv": 0.8171,
+    "beta": 0.297,
+    "ci": [
+      0.29479330686277727,
+      0.6872414632427934
+    ],
+    "sig_poisson": 0.92,
+    "sig_goe": -0.46,
+    "mean_interval_days": 1042.1,
+    "note": ""
+  },
+  "B1737-30": {
+    "n_glitches": 38,
+    "r": 0.4613,
+    "r_se": 0.0476,
+    "cv": 0.7695,
+    "beta": 0.314,
+    "ci": [
+      0.36038219028431917,
+      0.5539074665974922
+    ],
+    "sig_poisson": 1.42,
+    "sig_goe": -1.33,
+    "mean_interval_days": 378.1,
+    "note": ""
+  },
+  "Vela": {
+    "n_glitches": 26,
+    "r": 0.3991,
+    "r_se": 0.0661,
+    "cv": 0.5732,
+    "beta": 0.519,
+    "ci": [
+      0.3536001857350615,
+      0.6792062496347685
+    ],
+    "sig_poisson": 0.2,
+    "sig_goe": -2.07,
+    "mean_interval_days": 806.0,
+    "note": ""
+  },
+  "Crab": {
+    "n_glitches": 32,
+    "r": 0.3867,
+    "r_se": 0.0516,
+    "cv": 0.817,
+    "beta": 0.132,
+    "ci": [
+      0.3044323670969119,
+      0.5372143472483382
+    ],
+    "sig_poisson": -0.01,
+    "sig_goe": -2.47,
+    "mean_interval_days": 658.1,
+    "note": ""
+  },
+  "_baselines": {
+    "poisson": 0.3863,
+    "goe": 0.5307,
+    "gue": 0.6027
+  },
+  "_catalogue": "JBO Jodrell Bank Glitch Catalogue (Basu+2022), 727 glitches/222 pulsars; per-pulsar analysis of the glitch-richest, never pooled"
+}
