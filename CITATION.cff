@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Memory Spectrum of Neutron Star Glitches: From Poisson (Crab) to Quasi-Periodic Repulsion (J0537-6910)"
+authors:
+  - family-names: "Chen"
+    given-names: "Ruqing"
+    affiliation: "GUT Geoservice Inc., Montreal, Canada"
+    email: ruqing@hotmail.com
+date-released: 2026-06-21
+license: MIT
+repository-code: "https://github.com/Ruqing1963/pulsar-glitch-rmt"
+keywords:
+  - random matrix theory
+  - pulsar glitches
+  - neutron stars
+  - superfluid vortices
+  - charge-and-release
